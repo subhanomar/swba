@@ -1,0 +1,17 @@
+{
+  "name": "Swbhan",
+  "identifier": "com.subhanomar.swba",
+  "apps": [
+    {
+      "name": "ESign",
+      "bundleIdentifier": "p3.xyz.esign",
+      "developerName": "ESign",
+      "version": "5.0",
+      "versionDate": "2026-01-01",
+      "localizedDescription": "باشترین ئەپ بۆ واژۆکردنی فایلی IPA لەسەر ئایفۆن.",
+      "iconURL": "https://avatars.githubusercontent.com/u/1000000?v=4",
+      "downloadURL": "https://example.com/esign.ipa",
+      "size": 25000000
+    }
+  ]
+}
